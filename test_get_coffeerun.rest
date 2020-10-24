@@ -12,7 +12,7 @@ GET http://{{baseUrl}}/coffeeorders/audstanley@gmail.com HTTP/1.1
 ###
 
 # get any order from sjobs@apple.com
-GET http://{{baseUrl}}/coffeeorders/sjobs@apple.com HTTP/1.1
+GET http://{{baseUrl}}/coffeeorders/strength/100 HTTP/1.1
 
 ###
 
